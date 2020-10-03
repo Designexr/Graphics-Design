@@ -49,26 +49,6 @@ This repo is to welcome beginners to Github and the opensource community by help
 That said, only high-quality contributions and pull requests that add value to Open Source projects are part of the the [core values](https://hacktoberfest.digitalocean.com/details) of Hacktoberfest, so repositories like this one and others which allow users to quickly gain a PR toward completing the challenge might be excluded from the Hacktoberfest.
 So we highly recommend you to contribute in a meaningful way to other [Hacktoberfest issues](https://hacktoberfest.digitalocean.com/#projects) and not rely on this repository alone.
 
-# CPMath
-A NPM mathematics library for CP
-
-## Algotihm List
-
-1)Seive<br>
-2)Power with Mod<br>
-3)Get Divisor in sqrt(n)<br>
-4)Matrix Multiplication, Addition and Exponentation<br>
-5)Finding nth Fibonacci in log(n)<br>
-6)Karatsuba Multiplication<br>
-7)Extended Euclidean Algorithm<br>
-8)Diphantine<br>
-9)Euler Totient<br>
-10)Zfunction<br>
-11)...more to come<br>
-
-## NPM Link
-https://www.npmjs.com/package/cpmath
-
 
 # Graphics-Design
-It contains Logo and Design Collection of various occasion.
+It contains Logo and Design Collection and a best place to show off your design skills in open source.
