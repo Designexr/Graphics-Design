@@ -8,10 +8,10 @@ A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](ht
 * Fork this repository (Click the Fork button in the top right of this page)
 * Clone your fork to your local machine
 
-```bash
-git clone https://github.com/your-username/CPMath.git
+```bash 
+git clone https://github.com/your-username/Graphics-Design .git
 ```
-* Open CPMath/HacktoberFest-2020/ Folder in your in your file-explorer.
+* Open Graphics-Design /HacktoberFest-2020/ Folder in your in your file-explorer.
 * Create a branch
 
 ```bash
