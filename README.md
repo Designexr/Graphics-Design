@@ -51,4 +51,4 @@ So we highly recommend you to contribute in a meaningful way to other [Hacktober
 
 
 # Graphics-Design
-### It contains Logo and Design Collection and a best place to show off your design skills in open source.
+### It contains a Logo and Design Collection and a best place to show off your Design Skills in Open-Source.
